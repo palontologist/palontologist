@@ -37,34 +37,4 @@ Full stack developer
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/palontologist" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://discord.com/users/21givenchy#7804" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/palontologist" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://21givenchy.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/21givenchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/george-karani-3b9a8b1b2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.polywork.com/george_karani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://frontforumfocus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/21givenchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/frontforumfocus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitch.tv/21givenchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/palontologist"><img src="https://github-readme-stats.vercel.app/api?username=palontologist&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="palontologist's GitHub stats" /></a><a
-                      href="http://www.github.com/palontologist"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=palontologist&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/palontologist/frontforumfocus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=palontologist&repo=frontforumfocus&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<a
-                  href="https://www.buymeacoffee.com/21gthi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                
