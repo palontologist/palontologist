@@ -7,7 +7,7 @@ Full stack developer
 *   🌍  I'm based in Kenya
 *   🖥️  See my portfolio at [portfolio](http://https://threejs-vert.vercel.app/)
 *   ✉️  You can contact me at [https://www.linkedin.com/in/george-karani-3b9a8b1b2](mailto:https://www.linkedin.com/in/george-karani-3b9a8b1b2)
-*   🚀  I'm currently working on [I'm passionate about pushing the boundaries of what's possible with web3 technologies, and I'm always on the lookout for new and exciting projects to work on.](http://https://frontforumfocus.frontforumfocus.tech/)
+*   🚀 [I'm passionate about pushing the boundaries of what's possible with web3 technologies, and I'm always on the lookout for new and exciting projects to work on.](http://https://frontforumfocus.frontforumfocus.tech/)
 *   🧠  I'm learning I'm constantly learning and exploring new tools and frameworks to stay up-to-date with the latest developments in the web3 space.
 *   🤝  I'm open to collaborating on Open source,<a href="https://www.twitch.tv/21givenchy" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills 
