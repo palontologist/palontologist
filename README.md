@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is palontologist
-=====================================================================================================================================
+<h1 align="center">Hi 👋, I'm palontologist</h1>
 
-Full stack developer
---------------------
+<h3 align="center"> Nature lover !</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-*   🌍  I'm based in Kenya
-*   🖥️  See my portfolio at [portfolio](http://https://threejs-vert.vercel.app/)
-*   ✉️  You can contact me at [https://www.linkedin.com/in/george-karani-3b9a8b1b2](mailto:https://www.linkedin.com/in/george-karani-3b9a8b1b2)
-*   🚀 [I'm passionate about pushing the boundaries of what's possible with web3 technologies, and I'm always on the lookout for new and exciting projects to work on.](http://https://frontforumfocus.frontforumfocus.tech/)
-*   🧠  I'm learning I'm constantly learning and exploring new tools and frameworks to stay up-to-date with the latest developments in the web3 space.
-*   🤝  I'm open to collaborating on Open source,<a href="https://www.twitch.tv/21givenchy" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills 
+
+
+*   🤝  I'm open to collaborating on Open source,
+  
+
+    </a> Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -38,13 +36,13 @@ Full stack developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/palontologist"><img src="https://github-readme-stats.vercel.app/api?username=palontologist&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="palontologist's GitHub stats" /></a>
+<a href="http://www.github.com/palontologist"> <img src="https://github-readme-stats.vercel.app/api?username=palontologist&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="palontologist's GitHub stats" /></a>
 
-<a href="http://www.github.com/palontologist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palontologist&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/palontologist/frontforumfocus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=palontologist&repo=frontforumfocus&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/palontologist/mvp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=palontologist&repo=mvp&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
