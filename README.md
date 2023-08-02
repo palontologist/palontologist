@@ -33,6 +33,7 @@
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
   
   ### Badges
+  ![dino](https://user-images.githubusercontent.com/48686985/124527688-08ba9300-ddbb-11eb-96fe-4830604d69da.gif)
 
 <b>My GitHub Stats</b>
 
