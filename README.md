@@ -31,15 +31,11 @@
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-  
-  ### Badges
-  ![dino](https://user-images.githubusercontent.com/48686985/124527688-08ba9300-ddbb-11eb-96fe-4830604d69da.gif)
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/palontologist"> <img src="https://github-readme-stats.vercel.app/api?username=palontologist&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="palontologist's GitHub stats" /></a>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palontologist&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=palontologist&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palontologist&theme=dracula&exclude=html,lua,shell)
 
 <b>Top Repositories</b>
 
