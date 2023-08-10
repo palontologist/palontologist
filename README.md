@@ -39,7 +39,7 @@
 
 <p align="center"> <b> Visitor Count </b> </p>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/palontologist/count.svg" title="AtPan" alt="AtPan" />
+  <img src="https://profile-counter.glitch.me/palontologist/count.svg" title="palontologist" alt="palontologist" />
 </div>
 
 <b>Top Repositories</b>
