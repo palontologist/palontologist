@@ -37,6 +37,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=palontologist&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palontologist&theme=dracula&exclude=html,lua,shell)
 
+<p align="center"> <b> Visitor Count </b> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/palontologist/count.svg" title="AtPan" alt="AtPan" />
+</div>
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/palontologist/mvp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=palontologist&repo=mvp&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
