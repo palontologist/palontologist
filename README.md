@@ -16,7 +16,7 @@ Loves: Linux, AI, Kernel, impact, podcasting
 Gender: he/Male  
 Hobbies: open source, frontforumfocus, podcasting
 
-> Building impact-focused open source across TypeScript, AI tooling, and community projects — with 14 repositories actively updated in 2026.
+> Building impact-focused open source across Web , AI tooling, and community projects — with 14 repositories actively updated in 2026.
   
 
   
