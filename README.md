@@ -7,7 +7,16 @@
 
 
          I love Glitches
-*   🤝  I'm open to collaborating on Open source,
+*   🤝  I'm open to collaborating on Open Source projects.
+
+### ~ About me ~
+Name: palontologist  
+Nick: imdead  
+Loves: Linux, AI, Kernel, impact, podcasting  
+Gender: he/Male  
+Hobbies: open source, frontforumfocus, podcasting
+
+> Building impact-focused open source across TypeScript, AI tooling, and community projects — with 14 repositories actively updated in 2026.
   
 
   
