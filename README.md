@@ -9,17 +9,7 @@
          I love Glitches
 *   🤝  I'm open to collaborating on Open Source projects.
 
-## 💼 Experience & Expertise
 
-I'm a full-stack developer and open-source enthusiast with a passion for building **impact-driven solutions** across Web3, AI tooling, and sustainable technology. With 60+ active repositories, I bring hands-on experience in:
-
-- **Web & Full-Stack Development**: TypeScript/JavaScript ecosystem with frameworks spanning frontend, backend, and full-stack applications
-- **Web3 & Blockchain**: Smart contracts (Solidity), RWA (Real-World Assets), DeFi applications, and blockchain integration
-- **AI & Emerging Tech**: AI tooling, agent development, and machine learning projects
-- **Impact-Focused Projects**: Sustainability tracking, commodity markets analysis, agricultural technology, and community-driven initiatives
-- **Open Source Contribution**: Active contributor across multiple domains with a strong commitment to collaborative development
-
-**Notable Projects**: MVP platform, African Commodity Markets prediction system, HederaSwapAI, Open-Mythos (opensource AGI), Greta Productivity Agent, and various impact measurement tools. I consistently engage with emerging technologies while maintaining focus on real-world problem-solving and sustainable development.
 
 ### ~ About me ~
 Name: palontologist  
